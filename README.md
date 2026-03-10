@@ -1,6 +1,6 @@
 # Project System 🚀
 
-[Zid had l-description hna: A comprehensive system designed to streamline workflows and enhance productivity.]
+A comprehensive system designed to streamline workflows and enhance productivity.]
 
 ## ✨ Features
 * **Performance Optimization:** Optimized for speed and low resource usage.
